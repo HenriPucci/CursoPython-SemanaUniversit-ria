@@ -10,4 +10,7 @@ while i < 6:
     mega_sena.append(numeroMega)
     i += 1
 
-print(mega_sena) 
+print(mega_sena)
+tamanho = len(mega_sena)
+
+
